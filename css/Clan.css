@@ -1,0 +1,35 @@
+p       {color: #2095F1;}
+ul      {color: #2095F1;}
+ol      {color: #2095F1;}
+h1      {color: #000000; text-align: center;}
+h1      {background-color: #2095F1;}
+h2      {color: #2095F1;}
+h3      {color: #2095F1;}
+h4      {color: #2095F1;}
+h5      {color: #2095F1;}
+h6      {color: #2095F1;}
+a       {color: #183AFF;}
+tabel   {color: #2095F1;}
+hr      {background-color: #2095F1; border:1px solid #2095F1;}
+.lol {color:#183AFF;
+margin: 10px;
+padding: 10px;}
+.t4 {text-align: center;}
+.q:hover {
+border:5px solid #183AFF;}
+.q2 {border:1px solid #2095F1;
+    margin: 10px;
+    padding: 10px;}
+.q {border:1px solid #2095F1;}
+   
+    .R0 {text-align: center}
+    body {background-color: black;}
+    .v {color: black;
+        background-color: #183AFF;}
+.red {color: #183AFF;}
+input {background-color: rgb(155, 66, 66);}
+.ь {color: black;
+text-align: right;}
+.test {color: gainsboro;
+    text-align: right;}
+    
